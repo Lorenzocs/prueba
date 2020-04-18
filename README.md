@@ -1,5 +1,6 @@
 # Prueba
-##subtitulo 
-### sub subtitulo
-#### sub sub sub titulo
+
+###Subtitulo
+*as*
+>Ejemplo
 Esta es una prueba para usar git
